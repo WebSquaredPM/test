@@ -1,3 +1,8 @@
 This is a git test
 
+<<<<<<< HEAD
 Adding more information
+=======
+I am making a change on the github server
+
+>>>>>>> b16712392630afe09aaa88523c27c0e33d862d8b
